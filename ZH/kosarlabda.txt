@@ -1,0 +1,25 @@
+Pacers;Raptors;84;89
+Trail Blazers;Warriors;106;118
+Hornets;Heat;73;106
+Thunder;Spurs;98;97
+Hawks;Cavaliers;93;104
+Trail Blazers;Warriors;99;110
+Heat;Raptors;102;96
+Hawks;Cavaliers;98;123
+Heat;Raptors;92;96
+Spurs;Thunder;100;96
+Cavaliers;Hawks;121;108
+Warriors;Trail Blazers;108;120
+Raptors;Heat;95;91
+Spurs;Thunder;97;111
+Cavaliers;Hawks;100;99
+Warriors;Trail Blazers;132;125
+Raptors;Heat;87;94
+Thunder;Spurs;95;91
+Trail Blazers;Warriors;121;125
+Heat;Raptors;91;99
+Spurs;Thunder;99;113
+Raptors;Heat;91;103
+Heat;Raptors;89;116
+Thunder;Warriors;108;102
+Raptors;Cavaliers;84;115

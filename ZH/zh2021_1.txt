@@ -1,0 +1,23 @@
+Rendszerprogramozás Zh 	2021. május 10.
+1.	Készítsen szkriptet ujzh1.sh névvel, amely paraméterként két alkönyvtár nevét várja. A szkript az aktuális könyvtárban lévõ megadott két alkönyvtár nevét cserélje fel. Mindkét könyvtár jogosultságait állítsa be úgy, hogy csak a felhasználónak legyen olvasási és végrehajtási jogosultsága, a többieknek csakolvasási. Ha kevés a paraméter, vagy nem létezik valamelyik paraméterben megadott alkönyvtár, akkor azt írjuk ki.
+
+2.	Készítsen szkriptet ujzh2.sh névvel, amelynek három bemenõ paramétere van, az elsõ és a második egy egy pozitív egész szám 1-10 között, a harmadik paraméter pedig egy tetszõleges karakter. A program jelezzen hibát, ha az elsõ két paraméter nem a megadott intervallumból kap számot, illetve ha a második paraméter nagyobb, mint az elsõ, valamint ha a harmadik paraméter nem csak egy karaktert. A futás eredményeképpen a következõ képernyõkép jelenjen meg:
+pl.: ujzh2.sh 5 2 x
+oxooo
+xxxxx
+oxooo
+oxooo
+oxooo
+
+Azaz egy 5x5-ös mátrix jelenjen meg, amelynek a második paraméterben megadott sorát és oszlopát a harmadik paraméterben beállított karakterrel töltsük fel. 
+
+3.	Készítsen szkriptet ujzh3.sh névvel, amely a billentyûzetrõl beolvas egy karaktert mindaddig, amíg q betût nem olvas be. A morze abc szerint, ha 1-est ütünk le, akkor írja ki, hogy „ta”, ha 2-est, akkor azt, hogy „ti”. Más billentyûre ne reagáljon a program. A program a legvégén írja ki, hogy milyen hosszú volt az általunk megadott morze jelzés.
+
+4.	Készítsen szkriptet zh4.sh névvel, amely a paraméterként megkapott két bináris számról eldönti, hogy melyik a nagyobb. A program jelezze, ha a parméterként kapott számok valamelyike nem bináris szám.
+
+5.	Készítsen szkriptet zhfeladat5.sh névvel, amely feldolgozza a kosarlabda.txt állományt, és választ ad a következõ kérdésekre:
+a.	Hány mérkõzést játszott a Heat? 
+b.	Listázzuk ki a Warriors mérkõzéseit! A megjelenítési formátum:
+csapat1 pont1 – csapat2 pont2
+c.	Jelenítsük meg, hogy mekkora volt a legkisebb különbségû mérkõzés!
+d.	Hány gyõztes meccset játszott a Spurs?
