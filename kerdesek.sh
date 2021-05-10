@@ -23,7 +23,7 @@ do
   echo "$helyes" >> "$valaszok"
   echo "1) " "$opcio1"
   echo "2) " "$opcio2"
-  read -r -p "Add meg a helyes valasz sorszamat! (1/2): " -n 1 -t 3 -s valasz
+  read -r -p "Add meg a helyes valasz sorszamat! (1/2): " -n 1 -t 10 -s valasz
   echo ""
   if [ -z $valasz ] # ha  ures
   then
